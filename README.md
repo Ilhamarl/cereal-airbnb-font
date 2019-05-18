@@ -10,4 +10,7 @@
 
 ![My image](https://raw.githubusercontent.com/huuphongnguyen/phong.github.io/master/AirbnbCerealWeights-1.jpg)
 
-### Enjoy it 🙌
+### Enjoy it 🙌 
+
+# Bonus 🎉: TOP 10 TRENDING FONTTS 2019 - 2020
+https://github.com/huuphongnguyen/top10trendingfonts2019-2020
