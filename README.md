@@ -14,5 +14,5 @@ REMEMBER THAT: AIRBNB CEREAL IS INTERNAL FONT, IT IS NOT PUBLICING FOR EVERYONE 
 
 ### Enjoy it 🙌 
 
-# Bonus 🎉: TOP 10 TRENDING FONTTS 2019 - 2020
+# Bonus 🎉: TOP 10 TRENDING FONTS 2019 - 2020
 https://github.com/huuphongnguyen/top10trendingfonts2019-2020
