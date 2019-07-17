@@ -8,6 +8,8 @@
 * Typography 🤔
 * For research 🧐
 
+REMEMBER THAT: AIRBNB CEREAL IS INTERNAL FONT, IT IS NOT PUBLICING FOR EVERYONE AND THERE IS NO LICENSE FOR USING IN ANY CASE.
+
 ![My image](https://raw.githubusercontent.com/huuphongnguyen/phong.github.io/master/AirbnbCerealWeights-1.jpg)
 
 ### Enjoy it 🙌 
